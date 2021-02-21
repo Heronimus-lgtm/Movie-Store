@@ -1,0 +1,512 @@
+========================================*/
+.header.shop .nav-inner {
+	margin-right: 188px;
+}
+.header.shop .logo {
+	float: left;
+	margin-top: 35px;
+}
+.header.shop .top-contact {
+	margin-top:0px;
+}
+.header.shop .topbar p {
+	color: #ccc;
+}
+.header.shop .topbar .login a {
+	color: tomato;
+}
+/* Topbar Left Nav */
+.header.shop .left-nav{
+	
+}
+.header.shop .top-left .list-main li:first-child{
+	padding-left:0;
+}
+.header.shop .top-left .list-main li i{
+	display: inline-block;
+	margin-right: 4px;
+	font-size: 15px;
+	color: tomato;
+	position: relative;
+	top: 3px;
+}
+.header.shop .right-content{
+	float:right;
+}
+.header.shop .list-main li {
+	display: inline-block;
+	color: #333;
+	font-size: 13px;
+	font-weight: 500;
+	border-right: 1px solid #f0f0f0;
+	padding: 0px 13px;
+}
+.header.shop .list-main li i {
+	display: inline-block;
+	margin-right: 4px;
+	font-size: 15px;
+	color: tomato;
+	position: relative;
+	top: 1px;
+}
+.header.shop .list-main li:last-child{
+	padding-right:0;
+	border:none;
+}
+.header.shop .list-main li a{
+	color:#333;
+}
+.header.shop .list-main li a:hover{
+	color:tomato;
+}
+.header.shop .nav li {
+	margin-right: 40px;
+	float: left;
+	position: relative;
+}
+.header.shop .nav li {
+	margin-right: 38px;
+	position: relative;
+}
+.header.shop .nav li:last-child {
+	margin: 0 !important;
+}
+.header.shop .nav li .new {
+	background: tomato;
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 10px;
+	padding: 0px 9px;
+	position: absolute;
+	left: 0;
+	top: 6px;
+	font-weight: 500;
+}
+.header.shop .nav li .new::before {
+	position: absolute;
+	content: "";
+	left: 4px;
+	bottom: -8px;
+	border: 4px solid tomato;
+	border-bottom-color: transparent;
+	border-left-color: transparent;
+	border-right-color: transparent;
+}
+
+.header.shop{
+	background-color: olivedrab;
+}
+.header.shop .nav-inner {
+	margin: 0;
+	float: left;
+}
+.header.shop .topbar {
+	background-color: tomato;
+	border: none;
+}
+.header.shop.v3 .topbar{
+	padding:0;
+}
+.header.shop.v3 .topbar .inner-content{
+	border-bottom:1px solid #eee;
+	padding: 12px 0px;
+}
+.header.shop .right-nav li a {
+	color: #333;
+}
+.header.shop .logo {
+	float: left;
+	margin: 19px 0 0;
+}
+.header.shop .top-contact {
+	margin-top:0px;
+}
+/* Header Middle */
+.header.shop .search-bar-top {
+	text-align: center;
+	margin-top: 10px;
+}
+
+}
+
+.header.shop .middle-inner {
+	padding: 20px 0;
+	background: olivedrab;
+    background-attachment: fixed;
+	border-top: 1px solid tomato;
+}
+.header.shop.v3 .middle-inner {
+	border:tomato;
+    background: tomato;
+}
+.header.shop .header-inner {
+	background: olivedrab;
+}
+.header.shop.v3 .header-inner {
+	background: tomato;
+}
+.header.shop.v2 .header-inner {
+	background: #fff;
+	border-top:1px solid #eee;
+}
+.header.shop .topbar p {
+	color: #333;
+}
+.header.shop .all-category {
+	color: #fff;
+	background: transparent;
+	position: relative;
+	background: tomato;
+}
+.header.shop .all-category h3{
+	padding: 20px 25px;
+}
+.header.shop .cat-heading {
+	font-size: 20px;
+	color: #fff;
+}
+.header.shop .cat-heading i {
+	color: #fff;
+	display: inline-block;
+	margin-right: 15px;
+	font-size: 22px;
+}
+.header.shop .main-category {
+	position: absolute;
+	left: 0;
+	top: 64px;
+	background: #fff;
+	z-index: 1;
+	width: 100%;
+	-webkit-box-shadow: 0px 5px 15px #0000000a;
+	-moz-box-shadow: 0px 5px 15px #0000000a;
+	box-shadow: 0px 5px 15px #0000000a;
+}
+.header.shop .main-category li{
+	display:block;
+	border-bottom:1px solid #f6f6f6;
+	position:relative;
+}
+.header.shop .main-category li:last-child{
+	border:none;
+}
+.header.shop .main-category li a {
+	font-size: 14px;
+	font-weight: 600;
+	color: #333;
+	padding: 13px 25px 13px 25px;
+	display: block;
+	text-transform: uppercase;
+}
+.header.shop .main-category li a i{
+	display:inline-block;
+	float:right;
+}
+.header.shop .main-category li a:hover{
+	color:tomato;
+}
+.header.shop .nav li {
+	margin-right: 40px;
+	float: left;
+	position: relative;
+}
+.header.shop .nav li {
+	margin-right:5px;
+	position: relative;
+	float: none;
+}
+.header.shop .nav li:last-child{
+	margin-right:0;
+}
+.header.shop .nav li .new {
+	background: tomato;
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 9px;
+	position: absolute;
+	left: 21px;
+	top: 2px;
+	font-weight: 500;
+	height: 18px;
+	line-height: 18px;
+	text-align: center;
+	display: block;
+}
+.header.shop.v2 .nav li a{
+	color:#333;
+}
+.header.shop .nav li a {
+	color: #fff;
+	text-transform: capitalize;
+	font-size: 15px;
+	padding: 20px 15px;
+	font-weight: 500;
+	display: block;
+	position: relative;
+	-webkit-transition: all 0.4s ease;
+	-moz-transition: all 0.4s ease;
+	transition: all 0.4s ease;
+}
+.header.shop .nav li:hover a{
+	color:#fff;
+	background:tomato;
+}
+.header.shop.v2 .nav li:hover a{
+	color:tomato;
+	background:transparent;
+}
+
+.header.shop .right-bar {
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+	top: 20px;
+	float: right;
+	position: relative;
+}
+
+
+   Hero Area CSS
+========================================*/ 
+.hero-slider {
+	background: #fff;
+	overflow: hidden;
+}
+.hero-slider .single-slider {
+	height: auto;
+	background-image: url(images/clapperboard.png);
+	background-size: cover;
+    background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+    height: 510px;
+}
+.hero-slider .text-inner {
+	
+}
+.hero-slider .hero-text {
+	padding: 0 30px;
+	margin-top:100px;
+}
+.hero-slider .hero-text h1 {
+	line-height: 50px;
+	font-size: 47px;
+	font-weight: 700;
+	color: tomato;
+	margin-bottom: 20px;
+}
+.hero-slider .hero-text h1 span {
+	font-size: 20px;
+	display: block;
+	margin-bottom: 12px;
+	color: #333;
+	font-weight: 700;
+	line-height: initial;
+}
+
+.hero-slider .hero-text .button{
+	margin:0;
+}
+.hero-slider .hero-text .btn {
+	color: #fff;
+	background: tomato;
+	padding: 13px 30px;
+	line-height: initial;
+	border: none;
+	height: auto;
+	z-index: 0;
+}
+
+.container_grid
+{
+    display: grid;
+    background-color: tomato;
+    border: 1px solid #000;
+    grid-gap: 1px;
+    justify-self:center;
+    max-width: 292px;
+    height: auto;margin: 0 auto;
+    margin: 2rem auto;
+    margin-left: -300px;
+    grid-template-rows: auto auto auto;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto;
+    justify-content: space-around;
+        }
+.container_grid .row
+{
+    position: relative;
+    
+}
+
+========================================*/ 
+
+/*======================================
+  
+/*======================================
+   Start Shop Blog CSS
+========================================*/
+.shop-blog.grid .shop-single-blog{
+	margin-top:30px;
+    background-color: tomato;
+}
+.shop-blog .shop-single-blog{
+	text-align:center;
+	-webkit-transition:all 0.4s ease;
+	-moz-transition:all 0.4s ease;
+	transition:all 0.4s ease;
+}
+.shop-blog .shop-single-blog:hover{
+	box-shadow: 0px 10px 10px tomato;
+}
+.shop-blog .shop-single-blog img{
+	height:100%;
+	width:100%;
+}
+.shop-blog .shop-single-blog .content {
+	padding: 40px;
+}
+.shop-blog .shop-single-blog .content .title {
+	font-size: 17px;
+	font-weight: 600;
+	color: #333;
+    background-color: tomato;
+}
+.shop-blog .shop-single-blog .content .title:hover{
+	color:tomato;
+}
+.shop-blog .shop-single-blog .content .date {
+	font-size: 14px;
+	font-weight: 400;
+	margin-bottom: 5px;
+	color: tomato;
+}
+.shop-blog .shop-single-blog .content .more-btn {
+	font-size: 14px;
+	font-weight: 400;
+	color: #3c3c3c;
+	margin-top: 10px;
+	display: block;
+}
+.shop-blog .shop-single-blog .content .more-btn:hover{
+	color:tomato;
+}
+
+/* Blog Tags */
+.main-sidebar .side-tags{}
+.main-sidebar .side-tags .tag{
+	margin-top:40px;
+}
+.main-sidebar .side-tags .tag li {
+	display: inline-block;
+	margin-right: 7px;
+	margin-bottom: 20px;
+}
+.main-sidebar .side-tags .tag li a {
+	background: #fff;
+	color: #333;
+	padding: 8px 14px;
+	text-transform: capitalize;
+	border-radius: 0;
+	font-size: 13px;
+	background: #F6F7FB;
+}
+.main-sidebar .side-tags .tag a:hover{
+	color:#fff;
+	background:olivedrab;
+	border-color:transparent;
+    border: tomato;
+}
+.formaardak
+{
+    margin-left: 100px;
+    border-bottom: 2px solid tomato;
+}
+
+/*======================================
+ 
+	20. Start Footer CSS
+===============================*/
+.footer{
+	background:olivedrab;
+}
+.footer .about {
+	padding-right: 50px;
+}
+.footer .single-footer h4 {
+	font-size: 17px;
+	font-weight: 600;
+	color: #fff;
+	text-transform: capitalize;
+	margin-bottom: 30px;
+}
+.footer .about .logo{
+	margin-bottom:20px;
+}
+.footer .about .logo img{}
+.footer .about .text{
+	color:#fff;
+	font-weight: 400;
+}
+.footer .about .call {
+	color: #fff;
+	font-weight: 400;
+}
+.footer .about .call span{
+	display: block;
+}
+.footer .about .call a {
+	color: tomato;
+	font-size: 20px;
+	font-weight: 600;
+}
+.footer .links ul{}
+.footer .links ul li {
+	display: block;
+	margin-bottom: 8px;
+}
+.footer .links ul li:last-child{
+	margin-bottom:0;
+}
+.footer .links ul li a{
+	color:#fff;
+	font-weight: 400;
+}
+.footer .links ul li a:hover{
+	color:tomato;
+	padding-left:10px;
+}
+.footer .social{}
+.footer .social .contact{}
+.footer .social .contact ul{}
+.footer .social .contact ul li {
+	color: #fff;
+	display: block;
+	margin-bottom: 4px;
+	font-weight: 400;
+}
+.footer .contact ul li:last-child{
+	margin-bottom:0;
+}
+
+/* Copyright */
+.footer .copyright{
+	
+}
+.footer .copyright .inner{
+	border-top:1px solid #eeeeee3d;
+	padding:20px 0;
+}
+.footer .copyright .left{}
+.footer .copyright .right{
+	float:right;
+}
+.footer .copyright p{
+	color:#fff;
+}
+.footer .copyright p a{
+	color:#fff;
+	text-decoration:underline;
+}
+/*=============================
+	End Footer CSS
+===============================*/
